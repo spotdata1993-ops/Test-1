@@ -1,1 +1,0 @@
-{"epoch":6841488272637416232,"seq":6,"ts":1777322781,"frames":[{"id":"c1b27bb6db8e2f2cabd00b6a4","seq":4,"status":"error","err":"destination read failed"},{"id":"c1b27bb6db8e2f2cabd00b6a4","seq":5,"status":"closed"}]}
